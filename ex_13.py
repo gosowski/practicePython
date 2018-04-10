@@ -1,5 +1,5 @@
 def askNumber():
-    num = int(input("Enter how much fibonacci numbers tou want to print: "))
+    num = int(input("Enter how much fibonacci numbers do you want to print: "))
     return num
 
 def generateFib(num):
